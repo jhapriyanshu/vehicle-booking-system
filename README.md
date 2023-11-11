@@ -1,3 +1,5 @@
-# vehicle-booking-system
+## Project Setup
 
-#npm start
+1. **Install Dependencies:**
+   ```bash
+   npm install
